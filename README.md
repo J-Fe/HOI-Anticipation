@@ -1,9 +1,9 @@
-# STIGPN
-Space-Time Interaction Graph Parsing Networks for Human-Object Interaction Recognition，ACM MM'21
+# HOI-Anticipation
+Our code and Doc. are based on Space-Time Interaction Graph Parsing Networks for Human-Object Interaction Recognition，ACM MM'21
 ### Installation
 1. Clone this repository.   
     ```
-    git clone https://github.com/GuangmingZhu/STIGPN.git
+    git clone https://github.com/J-Fe/HOI-Anticipation.git
     ```
   
 2. Install Python dependencies:   
@@ -28,14 +28,3 @@ For the CAD120 dataset:
     ```
         python eval_CAD120.py
     ```
-# Citation
-If you use our annotations in your research or wish to refer to the baseline results, please use the following BibTeX entry.
-```
-@inproceedings{wang2021spatio,
-  title={Spatio-Temporal Interaction Graph Parsing Networks for Human-Object Interaction Recognition},
-  author={Wang, Ning and Zhu, Guangming and Zhang, Liang and Shen, Peiyi and Li, Hongsheng and Hua, Cong},
-  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
-  pages={4985--4993},
-  year={2021}
-}
-```
